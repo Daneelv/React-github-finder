@@ -34,7 +34,6 @@ The application is used to search through users github profiles and view detaile
 
 **Frontend:** React.js, HTML, CSS  
 **Backend:** React.js, React Router, Axios 
-
 **Database:** None
 
 ---
