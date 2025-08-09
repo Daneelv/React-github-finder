@@ -42,7 +42,7 @@ The application is used to search through users github profiles and view detaile
 
 ```bash
 # Clone the repo
-git clone https://github.com/Daneelv/Nextjs-devspace-blog.git
+git clone https://github.com/Daneelv/React-github-finder.git
 
 # Install dependencies
 npm install
